@@ -79,7 +79,7 @@ const CONFIG = {
   },
 
   social: {
-    linkedin: '',
+    linkedin: 'muhammad-usman-63aa07443',
     x: '',
     mastodon: '',
     researchGate: '',
